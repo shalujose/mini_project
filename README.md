@@ -11,15 +11,23 @@ Each modules performs different functions which are assigned to it. In this syte
 ## Product Functions
 
 • Activate user accounts
+
 • Add new courses and subjects
+
 • Control different departments
+
 • Communication between the users
+
 • Taking users attendance
+
 • Conduct exams for students
+
 • Evaluate students performance
+
 • Manage different users
 
 ## Software requirements
 
- Operating system: Windows
+ Operating system: Windows
+
  Platform: Visual Studio, ASP.net
